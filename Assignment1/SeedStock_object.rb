@@ -46,7 +46,7 @@ class SeedStock
 
   def planting_simulation(amount)
     @grams_remaining -= amount
-    @grams_remaining = [0, @grams_remaining].max
+    @grams_remaining = [0, @grams_remaining].max  ## ChatGPT helped in this
     @last_planted = Time.now.strftime('%m/%d/%Y')  # Update the last_planted date to today  
     puts "WARNING: we have run out of Seed Stock #{@seed}" if @grams_remaining == 0
   end
