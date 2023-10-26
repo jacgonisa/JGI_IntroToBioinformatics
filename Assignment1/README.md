@@ -10,6 +10,8 @@ Authors:
 ruby process_database_Jacob.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv
 ```
 
+You can also try a gene_file which has a incorrect gene ID, so the script will output an error message.
+
 ```sh
 ruby process_database_Jacob.rb bad_gene_file.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv
 ```
