@@ -43,7 +43,7 @@ class Gene
     gene_id_to_gene_name
   end
 
-  # Class method to check the validity of a gene ID
+  # Class method to check the validity of a gene ID (ChatGPT helped in this).
   def self.valid_gene_id?(gene_id)
     !gene_id.match(/A[Tt]\d[Gg]\d\d\d\d\d/).nil?
   end
