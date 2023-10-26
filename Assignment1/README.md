@@ -10,3 +10,7 @@ Authors:
 ruby process_database_Jacob.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv
 ```
 
+```sh
+ruby process_database_Jacob.rb bad_gene_file.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv
+```
+
