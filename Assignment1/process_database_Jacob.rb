@@ -1,8 +1,8 @@
 require 'csv'
 
-require './Gene_object.rb'
-require './SeedStock_object.rb'
-require './HybridCross_object.rb'
+require './Gene.rb'
+require './SeedStock.rb'
+require './HybridCross.rb'
 
 # Check if the correct number of arguments is provided
 arguments_number = ARGV.length
