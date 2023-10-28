@@ -28,9 +28,6 @@ seed_stocks = SeedStock.load_from_file(seed_stock_data_file)
 # Simulate planting 7 grams of seeds for all SeedStock objects
 SeedStock.planting_simulation(seed_stocks, 7)
 
-# Specify the path to the output TSV file
-output_file = output_file
-
 # Use the class method to write the data to the output file
 SeedStock.write_database(seed_stocks, output_file)
 
