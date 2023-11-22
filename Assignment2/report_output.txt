@@ -1,0 +1,1283 @@
+FINAL REPORT
+
+
+################################
+
+
+RETRIEVING THE SWISSPROT ID...
+
+couldn't find the protein ID of AT5g19120
+couldn't find the protein ID of AT5g55620
+couldn't find the protein ID of AT1g15820
+couldn't find the protein ID of AT1g64500
+couldn't find the protein ID of AT2g20670
+couldn't find the protein ID of AT4g12830
+couldn't find the protein ID of AT2g21210
+couldn't find the protein ID of AT1g11850
+couldn't find the protein ID of AT2g34430
+couldn't find the protein ID of AT1g18060
+couldn't find the protein ID of AT1g65490
+couldn't find the protein ID of AT2g17880
+couldn't find the protein ID of AT1g70820
+couldn't find the protein ID of AT1g64680
+couldn't find the protein ID of AT2g25200
+couldn't find the protein ID of AT5g01015
+couldn't find the protein ID of AT4g28030
+couldn't find the protein ID of AT3g28220
+couldn't find the protein ID of AT5g11070
+couldn't find the protein ID of AT1g23205
+couldn't find the protein ID of AT2g26740
+couldn't find the protein ID of AT5g24210
+couldn't find the protein ID of AT1g71030
+couldn't find the protein ID of AT5g62280
+couldn't find the protein ID of AT4g33660
+couldn't find the protein ID of AT4g38840
+couldn't find the protein ID of AT5g48490
+couldn't find the protein ID of AT5g02160
+couldn't find the protein ID of AT2g05540
+couldn't find the protein ID of AT3g62550
+couldn't find the protein ID of AT1g78460
+couldn't find the protein ID of AT4g12310
+
+
+FINISHED SUCCESSFULLY
+
+
+################################
+
+
+LOOKING FOR GENE INTERACTIONS ON INTACT DATABASE 
+.
+.
+.
+**1st-level**: Q9SZ42 interacts with:
+**1st-level**: F4K0A6 interacts with:
+**1st-level**: Q9LPL5 interacts with:
+**1st-level**: Q56YA5 interacts with:
+**1st-level**: Q41932 interacts with:
+**1st-level**: Q8GWK5 interacts with:
+**1st-level**: Q8S926 interacts with:
+**1st-level**: Q9SSS9 interacts with:
+2nd-level: O23160, which interacts with: 3rd-level: 
+2nd-level: Q84MB2, which interacts with: 3rd-level: Q9FHZ1, Q8L9Y3, Q9LV27, Q6NNP0, O80513, O80397, P11035
+**1st-level**: Q9SHE8 interacts with:
+**1st-level**: Q9M8L2 interacts with:
+**1st-level**: Q9LHD9 interacts with:
+**1st-level**: Q9SUI4 interacts with:
+**1st-level**: Q9ZNZ7 interacts with:
+**1st-level**: Q8L7V3 interacts with:
+**1st-level**: Q9C7N5 interacts with:
+**1st-level**: Q9SA56 interacts with:
+2nd-level: O23160, which interacts with: 3rd-level: 
+**1st-level**: O23553 interacts with:
+**1st-level**: Q9ZUC2 interacts with:
+**1st-level**: Q9SYX2 interacts with:
+2nd-level: P43254, which interacts with: 3rd-level: Q9LJR3, Q94BM7, Q9SYX2, Q9SPL2, Q9FE22, Q39057, O24646, Q96524, Q43125, Q9SJL7
+2nd-level: O50055, which interacts with: 3rd-level: Q9SYX2, Q9LJR3, Q94BM7
+2nd-level: Q94BM7, which interacts with: 3rd-level: O50055, P43254, Q9SYX2
+**1st-level**: P46600 interacts with:
+2nd-level: P92953, which interacts with: 3rd-level: P46600, Q9LXU1
+2nd-level: O04292, which interacts with: 3rd-level: P46600, Q9S7W5, Q9FME3, P92953, Q8LAL2, P46602, F4JI72, Q94JL3, Q9LVG2, Q9XGX0, Q9C518, Q9LEZ3, Q9SAD4
+**1st-level**: Q8L774 interacts with:
+**1st-level**: Q9FVR6 interacts with:
+**1st-level**: Q8RV79 interacts with:
+**1st-level**: Q9SN90 interacts with:
+**1st-level**: Q42569 interacts with:
+**1st-level**: Q9FME8 interacts with:
+**1st-level**: Q9SJU4 interacts with:
+**1st-level**: Q9S9N5 interacts with:
+**1st-level**: Q8VYZ2 interacts with:
+**1st-level**: Q8H1Q1 interacts with:
+**1st-level**: Q8W0Y8 interacts with:
+**1st-level**: Q9M811 interacts with:
+**1st-level**: Q8H0U5 interacts with:
+**1st-level**: Q8H112 interacts with:
+**1st-level**: P11035 interacts with:
+2nd-level: Q3E9D5, which interacts with: 3rd-level: P11035
+2nd-level: Q17TI5, which interacts with: 3rd-level: Q84MD6, Q93ZM2, Q9LVG2, Q9SJA8, Q05999, Q681Q7, Q7XJU2
+2nd-level: Q84MB2, which interacts with: 3rd-level: Q9FHZ1, Q8L9Y3, Q9LV27, Q6NNP0, O80513, O80397, P11035
+2nd-level: O80931, which interacts with: 3rd-level: O23160, Q38845, O04479, P11035
+2nd-level: Q9LVG2, which interacts with: 3rd-level: Q94ID6, Q17TI5, Q9M8Y0, Q9FQ04
+**1st-level**: Q9SIA5 interacts with:
+**1st-level**: Q5XF07 interacts with:
+**1st-level**: O49675 interacts with:
+**1st-level**: Q9FL44 interacts with:
+**1st-level**: Q9LV77 interacts with:
+**1st-level**: P27140 interacts with:
+**1st-level**: Q8VYU7 interacts with:
+**1st-level**: Q8LEV3 interacts with:
+**1st-level**: Q94B78 interacts with:
+**1st-level**: Q9LVE0 interacts with:
+**1st-level**: O81829 interacts with:
+**1st-level**: Q42605 interacts with:
+**1st-level**: P21240 interacts with:
+**1st-level**: Q9M3B6 interacts with:
+**1st-level**: O49562 interacts with:
+**1st-level**: P42737 interacts with:
+**1st-level**: Q02971 interacts with:
+**1st-level**: Q94AL8 interacts with:
+**1st-level**: P10896 interacts with:
+**1st-level**: Q8W493 interacts with:
+**1st-level**: Q66GQ5 interacts with:
+**1st-level**: Q8LER3 interacts with:
+**1st-level**: Q96500 interacts with:
+**1st-level**: Q9SVU5 interacts with:
+**1st-level**: Q9LPW0 interacts with:
+**1st-level**: P46283 interacts with:
+**1st-level**: Q9XFT3 interacts with:
+**1st-level**: O50055 interacts with:
+2nd-level: Q9SYX2, which interacts with: 3rd-level: P43254, O50055, Q94BM7
+2nd-level: Q9LJR3, which interacts with: 3rd-level: O50055, P43254
+2nd-level: Q94BM7, which interacts with: 3rd-level: O50055, P43254, Q9SYX2
+**1st-level**: Q42029 interacts with:
+**1st-level**: O22869 interacts with:
+**1st-level**: Q9XFH8 interacts with:
+**1st-level**: P25857 interacts with:
+**1st-level**: O80634 interacts with:
+**1st-level**: F4KGY6 interacts with:
+2nd-level: Q9XGN1, which interacts with: 3rd-level: Q9FT81, Q9LKL2, Q9FIX5, Q9LVS0
+**1st-level**: Q42593 interacts with:
+**1st-level**: Q9LVX1 interacts with:
+**1st-level**: Q9XI72 interacts with:
+**1st-level**: Q8VZ49 interacts with:
+**1st-level**: O80988 interacts with:
+**1st-level**: Q9M1K3 interacts with:
+**1st-level**: Q8RX87 interacts with:
+**1st-level**: Q8RY71 interacts with:
+2nd-level: Q9SUP6, which interacts with: 3rd-level: Q39008, Q8RY71
+**1st-level**: Q9LJ45 interacts with:
+**1st-level**: Q94BN0 interacts with:
+**1st-level**: Q9SY97 interacts with:
+**1st-level**: Q8W2F3 interacts with:
+**1st-level**: Q9FFB6 interacts with:
+**1st-level**: Q8L7C9 interacts with:
+**1st-level**: Q9C9W5 interacts with:
+**1st-level**: Q9SYW8 interacts with:
+**1st-level**: Q9S831 interacts with:
+**1st-level**: P25851 interacts with:
+**1st-level**: Q01667 interacts with:
+**1st-level**: P94040 interacts with:
+**1st-level**: Q9XF88 interacts with:
+**1st-level**: Q9ZV48 interacts with:
+**1st-level**: O48963 interacts with:
+2nd-level: Q9FMF5, which interacts with: 3rd-level: O48963
+**1st-level**: Q6NPQ1 interacts with:
+**1st-level**: B9DGG8 interacts with:
+**1st-level**: Q9SX20 interacts with:
+**1st-level**: O80860 interacts with:
+**1st-level**: Q9LZP9 interacts with:
+2nd-level: P25856, which interacts with: 3rd-level: Q9LZP9
+**1st-level**: Q8VYL1 interacts with:
+**1st-level**: Q41951 interacts with:
+**1st-level**: Q8LEK2 interacts with:
+**1st-level**: Q9LYA9 interacts with:
+**1st-level**: Q9SGS4 interacts with:
+2nd-level: Q9FDW1, which interacts with: 3rd-level: O23160, O22179
+2nd-level: Q17TI5, which interacts with: 3rd-level: Q84MD6, Q93ZM2, Q9LVG2, Q9SJA8, Q05999, Q681Q7, Q7XJU2
+2nd-level: Q8L765, which interacts with: 3rd-level: Q9ZVH4, Q9C9L0, O65665
+**1st-level**: Q9STF2 interacts with:
+**1st-level**: Q94KD8 interacts with:
+**1st-level**: P93017 interacts with:
+**1st-level**: P49078 interacts with:
+**1st-level**: Q43127 interacts with:
+**1st-level**: P0CJ48 interacts with:
+**1st-level**: Q8RX77 interacts with:
+**1st-level**: Q94F57 interacts with:
+**1st-level**: O22773 interacts with:
+**1st-level**: Q9FG89 interacts with:
+**1st-level**: Q9S841 interacts with:
+**1st-level**: Q9XI93 interacts with:
+**1st-level**: Q6EJ98 interacts with:
+**1st-level**: P11490 interacts with:
+**1st-level**: Q9M2D8 interacts with:
+**1st-level**: Q949Q5 interacts with:
+**1st-level**: O80446 interacts with:
+**1st-level**: Q01908 interacts with:
+**1st-level**: Q9FID9 interacts with:
+**1st-level**: Q9SSF8 interacts with:
+**1st-level**: Q9M9M3 interacts with:
+**1st-level**: Q9S7H1 interacts with:
+2nd-level: O23160, which interacts with: 3rd-level: 
+2nd-level: Q17TI5, which interacts with: 3rd-level: Q84MD6, Q93ZM2, Q9LVG2, Q9SJA8, Q05999, Q681Q7, Q7XJU2
+**1st-level**: Q9SCY3 interacts with:
+**1st-level**: P55228 interacts with:
+**1st-level**: P31168 interacts with:
+**1st-level**: Q9M9T4 interacts with:
+2nd-level: Q9LQF0, which interacts with: 3rd-level: Q93VJ4, Q9LXU1, Q9FMX2, Q9S763, Q9SB92, F4K1A8, Q9MAI5, Q570C0, Q9LPW7, Q8RWQ8, Q94ID6, Q9FLB1
+2nd-level: Q17TI5, which interacts with: 3rd-level: Q84MD6, Q93ZM2, Q9LVG2, Q9SJA8, Q05999, Q681Q7, Q7XJU2
+**1st-level**: Q9ZW84 interacts with:
+**1st-level**: P82281 interacts with:
+2nd-level: P0AA25, which interacts with: 3rd-level: 
+**1st-level**: Q9FGY1 interacts with:
+**1st-level**: Q9SUI5 interacts with:
+**1st-level**: Q9SUI7 interacts with:
+**1st-level**: Q07473 interacts with:
+**1st-level**: Q9LVM1 interacts with:
+FINISHED SUCCESSFULLY
+
+
+################################
+
+
+LOOKING FOR NETWORKS...
+8 networks have been identified:
+
+
+Network 1:
+Components:
+Q9SSS9
+O23160
+Q84MB2
+Q9FHZ1
+Q8L9Y3
+Q9LV27
+Q6NNP0
+O80513
+O80397
+P11035
+Q9SA56
+Q3E9D5
+Q17TI5
+Q84MD6
+Q93ZM2
+Q9LVG2
+Q9SJA8
+Q05999
+Q681Q7
+Q7XJU2
+O80931
+Q38845
+O04479
+Q94ID6
+Q9M8Y0
+Q9FQ04
+Q9SGS4
+Q9FDW1
+O22179
+Q8L765
+Q9ZVH4
+Q9C9L0
+O65665
+Q9S7H1
+Q9M9T4
+Q9LQF0
+Q93VJ4
+Q9LXU1
+Q9FMX2
+Q9S763
+Q9SB92
+F4K1A8
+Q9MAI5
+Q570C0
+Q9LPW7
+Q8RWQ8
+Q9FLB1
+Number of genes in Network also found in the initial Gene List: 6
+     Q9SSS9, P11035, Q9SA56, Q9SGS4, Q9S7H1, Q9M9T4
+
+
+Network 2:
+Components:
+Q9SYX2
+P43254
+Q9LJR3
+Q94BM7
+Q9SPL2
+Q9FE22
+Q39057
+O24646
+Q96524
+Q43125
+Q9SJL7
+O50055
+Number of genes in Network also found in the initial Gene List: 2
+     Q9SYX2, O50055
+
+
+Network 3:
+Components:
+P46600
+P92953
+Q9LXU1
+O04292
+Q9S7W5
+Q9FME3
+Q8LAL2
+P46602
+F4JI72
+Q94JL3
+Q9LVG2
+Q9XGX0
+Q9C518
+Q9LEZ3
+Q9SAD4
+Number of genes in Network also found in the initial Gene List: 1
+     P46600
+
+
+Network 4:
+Components:
+F4KGY6
+Q9XGN1
+Q9FT81
+Q9LKL2
+Q9FIX5
+Q9LVS0
+Number of genes in Network also found in the initial Gene List: 1
+     F4KGY6
+
+
+Network 5:
+Components:
+Q8RY71
+Q9SUP6
+Q39008
+Number of genes in Network also found in the initial Gene List: 1
+     Q8RY71
+
+
+Network 6:
+Components:
+O48963
+Q9FMF5
+Number of genes in Network also found in the initial Gene List: 1
+     O48963
+
+
+Network 7:
+Components:
+Q9LZP9
+P25856
+Number of genes in Network also found in the initial Gene List: 1
+     Q9LZP9
+
+
+Network 8:
+Components:
+P82281
+P0AA25
+Number of genes in Network also found in the initial Gene List: 1
+     P82281
+FINISHED SUCCESSFULLY
+
+
+################################
+
+
+LOOKING FOR GO AND KEGG ANNOTATIONS
+
+
+NETWORK REPORT:
+ 
+Network 1:
+Components:
+Q9SSS9
+O23160
+Q84MB2
+Q9FHZ1
+Q8L9Y3
+Q9LV27
+Q6NNP0
+O80513
+O80397
+P11035
+Q9SA56
+Q3E9D5
+Q17TI5
+Q84MD6
+Q93ZM2
+Q9LVG2
+Q9SJA8
+Q05999
+Q681Q7
+Q7XJU2
+O80931
+Q38845
+O04479
+Q94ID6
+Q9M8Y0
+Q9FQ04
+Q9SGS4
+Q9FDW1
+O22179
+Q8L765
+Q9ZVH4
+Q9C9L0
+O65665
+Q9S7H1
+Q9M9T4
+Q9LQF0
+Q93VJ4
+Q9LXU1
+Q9FMX2
+Q9S763
+Q9SB92
+F4K1A8
+Q9MAI5
+Q570C0
+Q9LPW7
+Q8RWQ8
+Q9FLB1
+
+GO terms:
+GO:0005634 (29 occurrences): C:nucleus
+  Gene: O23160
+  Gene: Q9FHZ1
+  Gene: Q17TI5
+  Gene: O80931
+  Gene: Q38845
+  Gene: O04479
+  Gene: Q9FDW1
+  Gene: Q8L765
+  Gene: Q9LQF0
+  Gene: Q9LXU1
+  Gene: Q9S763
+  Gene: Q9FLB1
+  Gene: Q9LXU1
+GO:0005737 (8 occurrences): C:cytoplasm
+  Gene: Q9LXU1
+  Gene: Q9FLB1
+  Gene: Q9LXU1
+GO:0003677 (7 occurrences): F:DNA binding
+  Gene: Q93VJ4
+GO:0003729 (6 occurrences): F:mRNA binding
+  Gene: Q9SSS9
+  Gene: P11035
+  Gene: Q9SA56
+  Gene: Q9FQ04
+  Gene: Q9S7H1
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: Q9FDW1
+GO:0009638 (5 occurrences): P:phototropism
+  Gene: Q05999
+GO:0042742 (5 occurrences): P:defense response to bacterium
+  Gene: O80931
+  Gene: Q9SGS4
+  Gene: Q9FDW1
+GO:0009737 (4 occurrences): P:response to abscisic acid
+  Gene: Q17TI5
+  Gene: Q9FDW1
+GO:0005829 (4 occurrences): C:cytosol
+  Gene: Q9FQ04
+GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
+  Gene: Q9FDW1
+GO:0006355 (3 occurrences): P:regulation of DNA-templated transcription
+  Gene: O23160
+  Gene: Q9FDW1
+GO:0048366 (3 occurrences): P:leaf development
+  Gene: Q9FHZ1
+  Gene: Q9M9T4
+GO:0009416 (3 occurrences): P:response to light stimulus
+  Gene: P11035
+GO:0009734 (3 occurrences): P:auxin-activated signaling pathway
+  Gene: Q17TI5
+  Gene: Q570C0
+GO:0048527 (3 occurrences): P:lateral root development
+  Gene: Q17TI5
+  Gene: Q9LPW7
+GO:0005886 (3 occurrences): C:plasma membrane
+  Gene: Q05999
+  Gene: Q9M9T4
+GO:0004672 (3 occurrences): F:protein kinase activity
+  Gene: Q05999
+GO:0009944 (3 occurrences): P:polarity specification of adaxial/abaxial axis
+  Gene: O80931
+  Gene: O04479
+GO:0010119 (3 occurrences): P:regulation of stomatal movement
+  Gene: Q38845
+GO:0010319 (2 occurrences): C:stromule
+  Gene: Q9SSS9
+GO:0010929 (2 occurrences): P:positive regulation of auxin mediated signaling pathway
+  Gene: O23160
+  Gene: Q9FDW1
+GO:0005768 (2 occurrences): C:endosome
+  Gene: Q9LV27
+GO:0009570 (2 occurrences): C:chloroplast stroma
+  Gene: O80397
+  Gene: Q9SGS4
+GO:0099402 (2 occurrences): P:plant organ development
+  Gene: Q3E9D5
+GO:0045892 (2 occurrences): P:negative regulation of DNA-templated transcription
+  Gene: O80931
+GO:0009723 (2 occurrences): P:response to ethylene
+  Gene: Q38845
+GO:0009943 (2 occurrences): P:adaxial/abaxial axis specification
+  Gene: O04479
+GO:0010286 (2 occurrences): P:heat acclimation
+  Gene: Q9FQ04
+  Gene: Q9SGS4
+GO:0045454 (2 occurrences): P:cell redox homeostasis
+  Gene: Q9SGS4
+GO:0043565 (2 occurrences): F:sequence-specific DNA binding
+  Gene: Q9FDW1
+GO:2000022 (2 occurrences): P:regulation of jasmonic acid mediated signaling pathway
+  Gene: Q9FDW1
+GO:0009911 (2 occurrences): P:positive regulation of flower development
+  Gene: Q9ZVH4
+GO:0009738 (2 occurrences): P:abscisic acid-activated signaling pathway
+  Gene: Q9FLB1
+GO:0015979 (1 occurrences): P:photosynthesis
+  Gene: Q9SSS9
+GO:0009773 (1 occurrences): P:photosynthetic electron transport in photosystem I
+  Gene: Q9SSS9
+GO:0009772 (1 occurrences): P:photosynthetic electron transport in photosystem II
+  Gene: Q9SSS9
+GO:0019760 (1 occurrences): P:glucosinolate metabolic process
+  Gene: O23160
+GO:1901001 (1 occurrences): P:negative regulation of response to salt stress
+  Gene: O23160
+GO:0090610 (1 occurrences): P:bundle sheath cell fate specification
+  Gene: Q9FHZ1
+GO:0016020 (1 occurrences): C:membrane
+  Gene: Q9LV27
+GO:0048571 (1 occurrences): P:long-day photoperiodism
+  Gene: Q9LV27
+GO:1900088 (1 occurrences): P:regulation of inositol biosynthetic process
+  Gene: Q9LV27
+GO:1900091 (1 occurrences): P:regulation of raffinose biosynthetic process
+  Gene: Q9LV27
+GO:0098542 (1 occurrences): P:defense response to other organism
+  Gene: O80397
+GO:0010227 (1 occurrences): P:floral organ abscission
+  Gene: O80397
+GO:0009703 (1 occurrences): F:nitrate reductase (NADH) activity
+  Gene: P11035
+GO:0008940 (1 occurrences): F:nitrate reductase activity
+  Gene: P11035
+GO:0042128 (1 occurrences): P:nitrate assimilation
+  Gene: P11035
+GO:0006809 (1 occurrences): P:nitric oxide biosynthetic process
+  Gene: P11035
+GO:0004014 (1 occurrences): F:adenosylmethionine decarboxylase activity
+  Gene: Q3E9D5
+GO:0008295 (1 occurrences): P:spermidine biosynthetic process
+  Gene: Q3E9D5
+GO:0006597 (1 occurrences): P:spermine biosynthetic process
+  Gene: Q3E9D5
+GO:0010315 (1 occurrences): P:auxin export across the plasma membrane
+  Gene: Q17TI5
+GO:0030154 (1 occurrences): P:cell differentiation
+  Gene: Q17TI5
+GO:0009736 (1 occurrences): P:cytokinin-activated signaling pathway
+  Gene: Q17TI5
+GO:0010078 (1 occurrences): P:maintenance of root meristem identity
+  Gene: Q17TI5
+GO:0010088 (1 occurrences): P:phloem development
+  Gene: Q17TI5
+GO:2000280 (1 occurrences): P:regulation of root development
+  Gene: Q17TI5
+GO:0048364 (1 occurrences): P:root development
+  Gene: Q17TI5
+GO:0048756 (1 occurrences): P:sieve cell differentiation
+  Gene: Q17TI5
+GO:0016791 (1 occurrences): F:phosphatase activity
+  Gene: Q84MD6
+GO:0005516 (1 occurrences): F:calmodulin binding
+  Gene: Q9SJA8
+GO:0062075 (1 occurrences): P:pollen aperture formation
+  Gene: Q05999
+GO:0009555 (1 occurrences): P:pollen development
+  Gene: Q05999
+GO:0000793 (1 occurrences): C:condensed chromosome
+  Gene: O80931
+GO:0005730 (1 occurrences): C:nucleolus
+  Gene: O80931
+GO:0008356 (1 occurrences): P:asymmetric cell division
+  Gene: O80931
+GO:0050832 (1 occurrences): P:defense response to fungus
+  Gene: O80931
+GO:0009965 (1 occurrences): P:leaf morphogenesis
+  Gene: O80931
+GO:0009946 (1 occurrences): P:proximal/distal axis specification
+  Gene: O80931
+GO:0045088 (1 occurrences): P:regulation of innate immune response
+  Gene: O80931
+GO:0009615 (1 occurrences): P:response to virus
+  Gene: O80931
+GO:0009926 (1 occurrences): P:auxin polar transport
+  Gene: Q38845
+GO:0009789 (1 occurrences): P:positive regulation of abscisic acid-activated signaling pathway
+  Gene: Q38845
+GO:0035304 (1 occurrences): P:regulation of protein dephosphorylation
+  Gene: Q38845
+GO:0005654 (1 occurrences): C:nucleoplasm
+  Gene: O04479
+GO:0009799 (1 occurrences): P:specification of symmetry
+  Gene: O04479
+GO:0016757 (1 occurrences): F:glycosyltransferase activity
+  Gene: Q9M8Y0
+GO:0009910 (1 occurrences): P:negative regulation of flower development
+  Gene: Q9M8Y0
+GO:0006493 (1 occurrences): P:protein O-linked glycosylation
+  Gene: Q9M8Y0
+GO:0010228 (1 occurrences): P:vegetative to reproductive phase transition of meristem
+  Gene: Q9M8Y0
+GO:0010494 (1 occurrences): C:cytoplasmic stress granule
+  Gene: Q9FQ04
+GO:0000932 (1 occurrences): C:P-body
+  Gene: Q9FQ04
+GO:0005844 (1 occurrences): C:polysome
+  Gene: Q9FQ04
+GO:0004534 (1 occurrences): F:5'-3' RNA exonuclease activity
+  Gene: Q9FQ04
+GO:0051301 (1 occurrences): P:cell division
+  Gene: Q9FQ04
+GO:0070370 (1 occurrences): P:cellular heat acclimation
+  Gene: Q9FQ04
+GO:0031087 (1 occurrences): P:deadenylation-independent decapping of nuclear-transcribed mRNA
+  Gene: Q9FQ04
+GO:0040029 (1 occurrences): P:epigenetic regulation of gene expression
+  Gene: Q9FQ04
+GO:0010587 (1 occurrences): P:miRNA catabolic process
+  Gene: Q9FQ04
+GO:0006402 (1 occurrences): P:mRNA catabolic process
+  Gene: Q9FQ04
+GO:0000291 (1 occurrences): P:nuclear-transcribed mRNA catabolic process, exonucleolytic
+  Gene: Q9FQ04
+GO:0010087 (1 occurrences): P:phloem or xylem histogenesis
+  Gene: Q9FQ04
+GO:0009826 (1 occurrences): P:unidimensional cell growth
+  Gene: Q9FQ04
+GO:0009941 (1 occurrences): C:chloroplast envelope
+  Gene: Q9SGS4
+GO:1900150 (1 occurrences): P:regulation of defense response to fungus
+  Gene: Q9FDW1
+GO:2000031 (1 occurrences): P:regulation of salicylic acid mediated signaling pathway
+  Gene: Q9FDW1
+GO:0009651 (1 occurrences): P:response to salt stress
+  Gene: Q9FDW1
+GO:0009639 (1 occurrences): P:response to red or far red light
+  Gene: Q9ZVH4
+GO:0140547 (1 occurrences): P:acquisition of seed longevity
+  Gene: Q9S7H1
+GO:0048510 (1 occurrences): P:regulation of timing of transition from vegetative to reproductive phase
+  Gene: Q9LQF0
+GO:0006351 (1 occurrences): P:DNA-templated transcription
+  Gene: Q93VJ4
+GO:0045824 (1 occurrences): P:negative regulation of innate immune response
+  Gene: Q93VJ4
+GO:0001216 (1 occurrences): F:DNA-binding transcription activator activity
+  Gene: Q9FMX2
+GO:0048578 (1 occurrences): P:positive regulation of long-day photoperiodism, flowering
+  Gene: Q9FMX2
+GO:0006817 (1 occurrences): P:phosphate ion transport
+  Gene: Q9S763
+GO:0048653 (1 occurrences): P:anther development
+  Gene: Q9SB92
+GO:0090506 (1 occurrences): P:axillary shoot meristem initiation
+  Gene: Q9SB92
+GO:0019827 (1 occurrences): P:stem cell population maintenance
+  Gene: Q9SB92
+GO:0080166 (1 occurrences): P:stomium development
+  Gene: Q9SB92
+GO:0019005 (1 occurrences): C:SCF ubiquitin ligase complex
+  Gene: Q570C0
+GO:0010011 (1 occurrences): F:auxin binding
+  Gene: Q570C0
+GO:0038198 (1 occurrences): F:auxin receptor activity
+  Gene: Q570C0
+GO:0000822 (1 occurrences): F:inositol hexakisphosphate binding
+  Gene: Q570C0
+GO:0010311 (1 occurrences): P:lateral root formation
+  Gene: Q570C0
+GO:0009733 (1 occurrences): P:response to auxin
+  Gene: Q570C0
+GO:0080022 (1 occurrences): P:primary root development
+  Gene: Q9LPW7
+GO:0010427 (1 occurrences): F:abscisic acid binding
+  Gene: Q9FLB1
+GO:0004864 (1 occurrences): F:protein phosphatase inhibitor activity
+  Gene: Q9FLB1
+GO:0038023 (1 occurrences): F:signaling receptor activity
+  Gene: Q9FLB1
+
+KEGG terms:
+ath04712 (9 occurrences): Circadian rhythm - plant
+  Gene: Q9FMX2
+ath04016 (4 occurrences): MAPK signaling pathway - plant
+  Gene: O80397
+  Gene: Q9FQ04
+  Gene: Q9FLB1
+ath04075 (3 occurrences): Plant hormone signal transduction
+  Gene: Q8L9Y3
+  Gene: Q570C0
+ath04120 (3 occurrences): Ubiquitin mediated proteolysis
+  Gene: Q9ZVH4
+  Gene: Q9C9L0
+ath04136 (2 occurrences): Autophagy - other
+  Gene: Q9LV27
+  Gene: Q6NNP0
+ath00195 (2 occurrences): Photosynthesis
+  Gene: Q9SA56
+  Gene: Q9S7H1
+ath03018 (2 occurrences): RNA degradation
+  Gene: Q9LXU1
+  Gene: Q9LXU1
+ath00190 (1 occurrences): Oxidative phosphorylation
+  Gene: Q9SSS9
+ath00910 (1 occurrences): Nitrogen metabolism
+  Gene: P11035
+ath00270 (1 occurrences): Cysteine and methionine metabolism
+  Gene: Q3E9D5
+ath03015 (1 occurrences): mRNA surveillance pathway
+  Gene: Q38845
+ath00514 (1 occurrences): Other types of O-glycan biosynthesis
+  Gene: Q9M8Y0
+
+Network 2:
+Components:
+Q9SYX2
+P43254
+Q9LJR3
+Q94BM7
+Q9SPL2
+Q9FE22
+Q39057
+O24646
+Q96524
+Q43125
+Q9SJL7
+O50055
+
+GO terms:
+GO:0005634 (29 occurrences): C:nucleus
+  Gene: Q9SYX2
+  Gene: P43254
+  Gene: Q9FE22
+  Gene: Q39057
+  Gene: O24646
+  Gene: Q96524
+  Gene: Q43125
+GO:0005737 (8 occurrences): C:cytoplasm
+  Gene: Q9SPL2
+  Gene: Q96524
+  Gene: Q43125
+GO:0003677 (7 occurrences): F:DNA binding
+  Gene: O24646
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: Q39057
+GO:0009638 (5 occurrences): P:phototropism
+  Gene: Q96524
+  Gene: Q43125
+GO:0009737 (4 occurrences): P:response to abscisic acid
+  Gene: O24646
+GO:0005829 (4 occurrences): C:cytosol
+  Gene: Q9FE22
+GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
+  Gene: O24646
+GO:0016604 (4 occurrences): C:nuclear body
+  Gene: Q9SYX2
+  Gene: P43254
+  Gene: Q96524
+  Gene: Q43125
+GO:0009637 (4 occurrences): P:response to blue light
+  Gene: Q9SYX2
+  Gene: Q94BM7
+  Gene: Q96524
+  Gene: Q43125
+GO:0009416 (3 occurrences): P:response to light stimulus
+  Gene: Q96524
+  Gene: Q43125
+GO:0004672 (3 occurrences): F:protein kinase activity
+  Gene: Q43125
+GO:0010119 (3 occurrences): P:regulation of stomatal movement
+  Gene: P43254
+GO:0010218 (3 occurrences): P:response to far red light
+  Gene: Q9FE22
+  Gene: Q39057
+  Gene: Q43125
+GO:0009909 (3 occurrences): P:regulation of flower development
+  Gene: Q39057
+  Gene: Q96524
+  Gene: O50055
+GO:0099402 (2 occurrences): P:plant organ development
+  Gene: Q43125
+GO:0009911 (2 occurrences): P:positive regulation of flower development
+  Gene: Q96524
+GO:0009738 (2 occurrences): P:abscisic acid-activated signaling pathway
+  Gene: Q9FE22
+GO:0009640 (2 occurrences): P:photomorphogenesis
+  Gene: Q9SYX2
+  Gene: Q43125
+GO:0010017 (2 occurrences): P:red or far-red light signaling pathway
+  Gene: Q9SYX2
+  Gene: O24646
+GO:2000028 (2 occurrences): P:regulation of photoperiodism, flowering
+  Gene: Q9SYX2
+  Gene: Q96524
+GO:0046283 (2 occurrences): P:anthocyanin-containing compound metabolic process
+  Gene: P43254
+  Gene: Q43125
+GO:0009963 (2 occurrences): P:positive regulation of flavonoid biosynthetic process
+  Gene: P43254
+  Gene: O24646
+GO:0010224 (2 occurrences): P:response to UV-B
+  Gene: P43254
+  Gene: O24646
+GO:0016567 (2 occurrences): P:protein ubiquitination
+  Gene: Q9SPL2
+GO:0005524 (2 occurrences): F:ATP binding
+  Gene: Q96524
+  Gene: Q43125
+GO:0071949 (2 occurrences): F:FAD binding
+  Gene: Q96524
+  Gene: Q43125
+GO:0010617 (2 occurrences): P:circadian regulation of calcium ion oscillation
+  Gene: Q96524
+  Gene: Q43125
+GO:0072387 (2 occurrences): P:flavin adenine dinucleotide metabolic process
+  Gene: Q96524
+  Gene: Q43125
+GO:0042752 (2 occurrences): P:regulation of circadian rhythm
+  Gene: Q96524
+  Gene: Q43125
+GO:1901371 (2 occurrences): P:regulation of leaf morphogenesis
+  Gene: Q96524
+  Gene: Q43125
+GO:0010244 (2 occurrences): P:response to low fluence blue light stimulus by blue low-fluence system
+  Gene: Q96524
+  Gene: Q43125
+GO:1902347 (2 occurrences): P:response to strigolactone
+  Gene: Q96524
+  Gene: Q43125
+GO:0009882 (2 occurrences): F:blue light photoreceptor activity
+  Gene: Q43125
+GO:0046777 (2 occurrences): P:protein autophosphorylation
+  Gene: Q43125
+GO:0010468 (2 occurrences): P:regulation of gene expression
+  Gene: Q43125
+GO:2000377 (2 occurrences): P:regulation of reactive oxygen species metabolic process
+  Gene: Q43125
+GO:0009658 (1 occurrences): P:chloroplast organization
+  Gene: Q9SYX2
+GO:0010100 (1 occurrences): P:negative regulation of photomorphogenesis
+  Gene: Q9SYX2
+GO:0048575 (1 occurrences): P:short-day photoperiodism, flowering
+  Gene: Q9SYX2
+GO:0061630 (1 occurrences): F:ubiquitin protein ligase activity
+  Gene: P43254
+GO:0004842 (1 occurrences): F:ubiquitin-protein transferase activity
+  Gene: P43254
+GO:0006281 (1 occurrences): P:DNA repair
+  Gene: P43254
+GO:0009649 (1 occurrences): P:entrainment of circadian clock
+  Gene: P43254
+GO:0048573 (1 occurrences): P:photoperiodism, flowering
+  Gene: P43254
+GO:0009641 (1 occurrences): P:shade avoidance
+  Gene: P43254
+GO:0003712 (1 occurrences): F:transcription coregulator activity
+  Gene: Q9FE22
+GO:0010018 (1 occurrences): P:far-red light signaling pathway
+  Gene: Q39057
+GO:0009908 (1 occurrences): P:flower development
+  Gene: Q39057
+GO:0032993 (1 occurrences): C:protein-DNA complex
+  Gene: O24646
+GO:0009740 (1 occurrences): P:gibberellic acid mediated signaling pathway
+  Gene: O24646
+GO:0009958 (1 occurrences): P:positive gravitropism
+  Gene: O24646
+GO:0031539 (1 occurrences): P:positive regulation of anthocyanin metabolic process
+  Gene: O24646
+GO:0042753 (1 occurrences): P:positive regulation of circadian rhythm
+  Gene: O24646
+GO:0009787 (1 occurrences): P:regulation of abscisic acid-activated signaling pathway
+  Gene: O24646
+GO:0010099 (1 occurrences): P:regulation of photomorphogenesis
+  Gene: O24646
+GO:0006325 (1 occurrences): P:chromatin organization
+  Gene: Q96524
+GO:0006338 (1 occurrences): P:chromatin remodeling
+  Gene: Q96524
+GO:0051607 (1 occurrences): P:defense response to virus
+  Gene: Q96524
+GO:0048574 (1 occurrences): P:long-day photoperiodism, flowering
+  Gene: Q96524
+GO:2000379 (1 occurrences): P:positive regulation of reactive oxygen species metabolic process
+  Gene: Q96524
+GO:0016301 (1 occurrences): F:kinase activity
+  Gene: Q43125
+GO:0060918 (1 occurrences): P:auxin transport
+  Gene: Q43125
+GO:0009583 (1 occurrences): P:detection of light stimulus
+  Gene: Q43125
+GO:1901332 (1 occurrences): P:negative regulation of lateral root development
+  Gene: Q43125
+GO:0010117 (1 occurrences): P:photoprotection
+  Gene: Q43125
+GO:1901529 (1 occurrences): P:positive regulation of anion channel activity
+  Gene: Q43125
+GO:1900426 (1 occurrences): P:positive regulation of defense response to bacterium
+  Gene: Q43125
+GO:1902448 (1 occurrences): P:positive regulation of shade avoidance
+  Gene: Q43125
+GO:1901672 (1 occurrences): P:positive regulation of systemic acquired resistance
+  Gene: Q43125
+GO:0010310 (1 occurrences): P:regulation of hydrogen peroxide metabolic process
+  Gene: Q43125
+GO:2000652 (1 occurrences): P:regulation of secondary cell wall biogenesis
+  Gene: Q43125
+GO:0051510 (1 occurrences): P:regulation of unidimensional cell growth
+  Gene: Q43125
+GO:0009646 (1 occurrences): P:response to absence of light
+  Gene: Q43125
+GO:0009644 (1 occurrences): P:response to high light intensity
+  Gene: Q43125
+GO:0071000 (1 occurrences): P:response to magnetism
+  Gene: Q43125
+GO:0010114 (1 occurrences): P:response to red light
+  Gene: Q43125
+GO:0009266 (1 occurrences): P:response to temperature stimulus
+  Gene: Q43125
+GO:0010343 (1 occurrences): P:singlet oxygen-mediated programmed cell death
+  Gene: Q43125
+GO:0010118 (1 occurrences): P:stomatal movement
+  Gene: Q43125
+GO:0009785 (1 occurrences): P:blue light signaling pathway
+  Gene: Q9SJL7
+
+KEGG terms:
+ath04712 (9 occurrences): Circadian rhythm - plant
+  Gene: Q9SYX2
+  Gene: Q9LJR3
+  Gene: Q94BM7
+  Gene: Q39057
+  Gene: O24646
+  Gene: Q96524
+  Gene: Q43125
+ath04120 (3 occurrences): Ubiquitin mediated proteolysis
+  Gene: P43254
+
+Network 3:
+Components:
+P46600
+P92953
+Q9LXU1
+O04292
+Q9S7W5
+Q9FME3
+Q8LAL2
+P46602
+F4JI72
+Q94JL3
+Q9LVG2
+Q9XGX0
+Q9C518
+Q9LEZ3
+Q9SAD4
+
+GO terms:
+GO:0005634 (29 occurrences): C:nucleus
+  Gene: Q9LXU1
+  Gene: P46600
+  Gene: Q9LXU1
+  Gene: Q94JL3
+  Gene: Q9SAD4
+GO:0005737 (8 occurrences): C:cytoplasm
+  Gene: Q9LXU1
+  Gene: Q9LXU1
+GO:0005829 (4 occurrences): C:cytosol
+  Gene: Q9SAD4
+GO:0006355 (3 occurrences): P:regulation of DNA-templated transcription
+  Gene: P92953
+GO:0009944 (3 occurrences): P:polarity specification of adaxial/abaxial axis
+  Gene: O04292
+GO:0009943 (2 occurrences): P:adaxial/abaxial axis specification
+  Gene: O04292
+GO:0043565 (2 occurrences): F:sequence-specific DNA binding
+  Gene: Q94JL3
+GO:2000377 (2 occurrences): P:regulation of reactive oxygen species metabolic process
+  Gene: Q94JL3
+GO:0009507 (2 occurrences): C:chloroplast
+  Gene: Q9S7W5
+GO:0031347 (2 occurrences): P:regulation of defense response
+  Gene: Q9S7W5
+GO:0000978 (2 occurrences): F:RNA polymerase II cis-regulatory region sequence-specific DNA binding
+  Gene: Q94JL3
+  Gene: Q9C518
+GO:0045893 (2 occurrences): P:positive regulation of DNA-templated transcription
+  Gene: Q94JL3
+GO:0009725 (1 occurrences): P:response to hormone
+  Gene: P92953
+GO:0009855 (1 occurrences): P:determination of bilateral symmetry
+  Gene: O04292
+GO:0010014 (1 occurrences): P:meristem initiation
+  Gene: O04292
+GO:0010072 (1 occurrences): P:primary shoot apical meristem specification
+  Gene: O04292
+GO:0009408 (1 occurrences): P:response to heat
+  Gene: Q9FME3
+GO:2000214 (1 occurrences): P:regulation of proline metabolic process
+  Gene: Q94JL3
+GO:0009938 (1 occurrences): P:negative regulation of gibberellic acid mediated signaling pathway
+  Gene: Q9XGX0
+GO:0009739 (1 occurrences): P:response to gibberellin
+  Gene: Q9XGX0
+GO:0048825 (1 occurrences): P:cotyledon development
+  Gene: Q9SAD4
+GO:0009880 (1 occurrences): P:embryonic pattern specification
+  Gene: Q9SAD4
+GO:1905392 (1 occurrences): P:plant organ morphogenesis
+  Gene: Q9SAD4
+GO:0090708 (1 occurrences): P:specification of plant organ axis polarity
+  Gene: Q9SAD4
+
+KEGG terms:
+ath04075 (3 occurrences): Plant hormone signal transduction
+  Gene: Q8LAL2
+ath03018 (2 occurrences): RNA degradation
+  Gene: Q9LXU1
+  Gene: Q9LXU1
+
+Network 4:
+Components:
+F4KGY6
+Q9XGN1
+Q9FT81
+Q9LKL2
+Q9FIX5
+Q9LVS0
+
+GO terms:
+GO:0005634 (29 occurrences): C:nucleus
+  Gene: Q9XGN1
+  Gene: Q9LKL2
+  Gene: Q9LVS0
+GO:0005737 (8 occurrences): C:cytoplasm
+  Gene: Q9XGN1
+GO:0003677 (7 occurrences): F:DNA binding
+  Gene: F4KGY6
+  Gene: Q9XGN1
+  Gene: Q9LKL2
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: F4KGY6
+  Gene: Q9LKL2
+  Gene: Q9LVS0
+GO:0009737 (4 occurrences): P:response to abscisic acid
+  Gene: Q9LVS0
+GO:0000976 (4 occurrences): F:transcription cis-regulatory region binding
+  Gene: Q9FT81
+  Gene: Q9LVS0
+GO:0048366 (3 occurrences): P:leaf development
+  Gene: Q9LVS0
+GO:0009734 (3 occurrences): P:auxin-activated signaling pathway
+  Gene: F4KGY6
+GO:0048527 (3 occurrences): P:lateral root development
+  Gene: Q9LVS0
+GO:0010150 (3 occurrences): P:leaf senescence
+  Gene: Q9LVS0
+GO:0045892 (2 occurrences): P:negative regulation of DNA-templated transcription
+  Gene: Q9LVS0
+GO:0009723 (2 occurrences): P:response to ethylene
+  Gene: Q9LVS0
+GO:0010468 (2 occurrences): P:regulation of gene expression
+  Gene: Q9LKL2
+GO:0010026 (2 occurrences): P:trichome differentiation
+  Gene: Q9XGN1
+  Gene: Q9FT81
+GO:0010600 (1 occurrences): P:regulation of auxin biosynthetic process
+  Gene: F4KGY6
+GO:0045165 (1 occurrences): P:cell fate commitment
+  Gene: Q9XGN1
+GO:0009957 (1 occurrences): P:epidermal cell fate specification
+  Gene: Q9XGN1
+GO:0032880 (1 occurrences): P:regulation of protein localization
+  Gene: Q9XGN1
+GO:0009867 (1 occurrences): P:jasmonic acid mediated signaling pathway
+  Gene: Q9FT81
+GO:0031542 (1 occurrences): P:positive regulation of anthocyanin biosynthetic process
+  Gene: Q9FT81
+GO:0010214 (1 occurrences): P:seed coat development
+  Gene: Q9FT81
+GO:0048316 (1 occurrences): P:seed development
+  Gene: Q9FT81
+GO:0010031 (1 occurrences): P:circumnutation
+  Gene: Q9LKL2
+GO:0010629 (1 occurrences): P:negative regulation of gene expression
+  Gene: Q9LKL2
+GO:0140964 (1 occurrences): P:intracellular auxin homeostasis
+  Gene: Q9LVS0
+GO:2000469 (1 occurrences): P:negative regulation of peroxidase activity
+  Gene: Q9LVS0
+GO:0000122 (1 occurrences): P:negative regulation of transcription by RNA polymerase II
+  Gene: Q9LVS0
+GO:0030307 (1 occurrences): P:positive regulation of cell growth
+  Gene: Q9LVS0
+GO:0090697 (1 occurrences): P:post-embryonic plant organ morphogenesis
+  Gene: Q9LVS0
+
+KEGG terms:
+ath04712 (9 occurrences): Circadian rhythm - plant
+  Gene: Q9LKL2
+ath03083 (1 occurrences): Polycomb repressive complex
+  Gene: Q9XGN1
+
+Network 5:
+Components:
+Q8RY71
+Q9SUP6
+Q39008
+
+GO terms:
+GO:0005634 (29 occurrences): C:nucleus
+  Gene: Q8RY71
+  Gene: Q9SUP6
+  Gene: Q39008
+GO:0003677 (7 occurrences): F:DNA binding
+  Gene: Q9SUP6
+  Gene: Q39008
+GO:0003700 (6 occurrences): F:DNA-binding transcription factor activity
+  Gene: Q9SUP6
+GO:0042742 (5 occurrences): P:defense response to bacterium
+  Gene: Q8RY71
+  Gene: Q9SUP6
+GO:0005886 (3 occurrences): C:plasma membrane
+  Gene: Q39008
+GO:0010150 (3 occurrences): P:leaf senescence
+  Gene: Q8RY71
+  Gene: Q9SUP6
+GO:0005768 (2 occurrences): C:endosome
+  Gene: Q39008
+GO:2000022 (2 occurrences): P:regulation of jasmonic acid mediated signaling pathway
+  Gene: Q9SUP6
+GO:0031347 (2 occurrences): P:regulation of defense response
+  Gene: Q9SUP6
+GO:0045893 (2 occurrences): P:positive regulation of DNA-templated transcription
+  Gene: Q9SUP6
+GO:0042802 (2 occurrences): F:identical protein binding
+  Gene: Q8RY71
+GO:0042803 (2 occurrences): F:protein homodimerization activity
+  Gene: Q8RY71
+GO:0004674 (2 occurrences): F:protein serine/threonine kinase activity
+  Gene: Q39008
+GO:0030234 (1 occurrences): F:enzyme regulator activity
+  Gene: Q8RY71
+GO:0019762 (1 occurrences): P:glucosinolate catabolic process
+  Gene: Q8RY71
+GO:0080028 (1 occurrences): P:nitrile biosynthetic process
+  Gene: Q8RY71
+GO:0009753 (1 occurrences): P:response to jasmonic acid
+  Gene: Q8RY71
+GO:0004709 (1 occurrences): F:MAP kinase kinase kinase activity
+  Gene: Q39008
+GO:0009631 (1 occurrences): P:cold acclimation
+  Gene: Q39008
+GO:0000165 (1 occurrences): P:MAPK cascade
+  Gene: Q39008
+GO:0009409 (1 occurrences): P:response to cold
+  Gene: Q39008
+GO:1902065 (1 occurrences): P:response to L-glutamate
+  Gene: Q39008
+GO:0009611 (1 occurrences): P:response to wounding
+  Gene: Q39008
+GO:0022622 (1 occurrences): P:root system development
+  Gene: Q39008
+
+KEGG terms:
+ath04016 (4 occurrences): MAPK signaling pathway - plant
+  Gene: Q39008
+
+Network 6:
+Components:
+O48963
+Q9FMF5
+
+GO terms:
+GO:0005737 (8 occurrences): C:cytoplasm
+  Gene: O48963
+GO:0009638 (5 occurrences): P:phototropism
+  Gene: O48963
+  Gene: Q9FMF5
+GO:0004672 (3 occurrences): F:protein kinase activity
+  Gene: O48963
+GO:0010119 (3 occurrences): P:regulation of stomatal movement
+  Gene: O48963
+GO:0016567 (2 occurrences): P:protein ubiquitination
+  Gene: Q9FMF5
+GO:0009882 (2 occurrences): F:blue light photoreceptor activity
+  Gene: O48963
+GO:0046777 (2 occurrences): P:protein autophosphorylation
+  Gene: O48963
+GO:0004674 (2 occurrences): F:protein serine/threonine kinase activity
+  Gene: O48963
+GO:0009986 (1 occurrences): C:cell surface
+  Gene: O48963
+GO:0009898 (1 occurrences): C:cytoplasmic side of plasma membrane
+  Gene: O48963
+GO:0010181 (1 occurrences): F:FMN binding
+  Gene: O48963
+GO:0009904 (1 occurrences): P:chloroplast accumulation movement
+  Gene: O48963
+GO:0009903 (1 occurrences): P:chloroplast avoidance movement
+  Gene: O48963
+GO:0007623 (1 occurrences): P:circadian rhythm
+  Gene: O48963
+GO:0010362 (1 occurrences): P:negative regulation of anion channel activity by blue light
+  Gene: O48963
+
+KEGG terms:
+
+Network 7:
+Components:
+Q9LZP9
+P25856
+
+GO terms:
+GO:0003729 (6 occurrences): F:mRNA binding
+  Gene: P25856
+GO:0010319 (2 occurrences): C:stromule
+  Gene: P25856
+GO:0009507 (2 occurrences): C:chloroplast
+  Gene: Q9LZP9
+GO:0042802 (2 occurrences): F:identical protein binding
+  Gene: P25856
+GO:0042803 (2 occurrences): F:protein homodimerization activity
+  Gene: P25856
+GO:0099080 (2 occurrences): C:supramolecular complex
+  Gene: Q9LZP9
+  Gene: P25856
+GO:0032991 (1 occurrences): C:protein-containing complex
+  Gene: Q9LZP9
+GO:0044877 (1 occurrences): F:protein-containing complex binding
+  Gene: Q9LZP9
+GO:0080153 (1 occurrences): P:negative regulation of reductive pentose-phosphate cycle
+  Gene: Q9LZP9
+GO:0065003 (1 occurrences): P:protein-containing complex assembly
+  Gene: Q9LZP9
+GO:0004365 (1 occurrences): F:glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+  Gene: P25856
+GO:0051287 (1 occurrences): F:NAD binding
+  Gene: P25856
+GO:0050661 (1 occurrences): F:NADP binding
+  Gene: P25856
+GO:0051289 (1 occurrences): P:protein homotetramerization
+  Gene: P25856
+
+KEGG terms:
+ath00710 (1 occurrences): Carbon fixation in photosynthetic organisms
+  Gene: P25856
+
+Network 8:
+Components:
+P82281
+P0AA25
+
+GO terms:
+GO:0005829 (4 occurrences): C:cytosol
+  Gene: P0AA25
+GO:0045454 (2 occurrences): P:cell redox homeostasis
+  Gene: P0AA25
+GO:0009543 (1 occurrences): C:chloroplast thylakoid lumen
+  Gene: P82281
+GO:0030337 (1 occurrences): F:DNA polymerase processivity factor activity
+  Gene: P0AA25
+GO:0015035 (1 occurrences): F:protein-disulfide reductase activity
+  Gene: P0AA25
+
+KEGG terms:
+ath00053 (1 occurrences): Ascorbate and aldarate metabolism
+  Gene: P82281
+
+END OF REPORT
+################################
