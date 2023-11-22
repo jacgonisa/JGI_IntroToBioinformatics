@@ -1,3 +1,4 @@
+### WRITTEN BY NICOLÁS ROIG AND JACOB GONZÁLEZ
 require './interactome_builder.rb'
 require './interactome_annotator.rb'
 require './interactome_processor.rb'
