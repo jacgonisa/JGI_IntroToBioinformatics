@@ -1,8 +1,8 @@
 require 'csv'
 
-require './Gene_object.rb'
-require './SeedStock_object.rb'
-require './HybridCross_object.rb'
+require './Gene.rb'
+require './SeedStock.rb'
+require './HybridCross.rb'
 
 # Check if the correct number of arguments is provided
 arguments_number = ARGV.length
@@ -27,9 +27,6 @@ seed_stocks = SeedStock.load_from_file(seed_stock_data_file)
 
 # Simulate planting 7 grams of seeds for all SeedStock objects
 SeedStock.planting_simulation(seed_stocks, 7)
-
-# Specify the path to the output TSV file
-output_file = output_file
 
 # Use the class method to write the data to the output file
 SeedStock.write_database(seed_stocks, output_file)
