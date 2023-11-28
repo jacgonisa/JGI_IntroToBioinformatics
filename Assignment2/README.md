@@ -3,6 +3,12 @@ Authors:
 * González Isa, Jacob (jacobgisa17@gmail.com) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jacobgisa.svg?style=social&label=Follow%20%40JacobGIsa)](https://twitter.com/jacobgisa)
 * Roig Cárdenas, Nicolás (nico.c.roig@gmail.com)
 
+## Answer/Conclusion
+
+As reported in the output.txt, there are some networks that share genes from the list.
+
+Since we have been very restrictive with the interactions (good experimental quality), our gut feeling is that this work SUPPORTS the microarray study and indeed the coexpressed genes form interaction networks.
+
 ## Usage
 
 ```sh
