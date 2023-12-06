@@ -8,7 +8,7 @@ Authors:
 ```sh
 ruby main.rb ArabidopsisSubNetwork_GeneList.txt output.gff output_chromosome_coord.gff > output_report.txt
 ```
-output.gff is the coordinates of repeats within genes and output_chromosome_coord.gff is the chromosome-based coordinates.
+**`output.gff`** is the coordinates of repeats within genes and **`output_chromosome_coord.gff`** is the chromosome-based coordinates.
 
 You can find documentation YARD documentation in  **`doc/`:**
 
