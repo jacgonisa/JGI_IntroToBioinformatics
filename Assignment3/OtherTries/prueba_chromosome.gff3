@@ -1,0 +1,8 @@
+##gff-version 3
+2	custom	ctt_repeat	19024052	19024057	-	.	ID=ctt_repeat_AT2G46340_1899_1904
+2	custom	ctt_repeat	19022411	19022416	-	.	ID=ctt_repeat_AT2G46340_258_263
+2	custom	ctt_repeat	19022373	19022378	-	.	ID=ctt_repeat_AT2G46340_220_225
+2	custom	ctt_repeat	19023328	19023333	-	.	ID=ctt_repeat_AT2G46340_1175_1180
+2	custom	ctt_repeat	19027262	19027282	-	.	ID=ctt_repeat_AT2G46340_5109_5129
+2	custom	ctt_repeat	19027268	19027282	-	.	ID=ctt_repeat_AT2G46340_5115_5129
+2	custom	ctt_repeat	19027274	19027282	-	.	ID=ctt_repeat_AT2G46340_5121_5129

@@ -1,0 +1,14 @@
+##gff-version 3
+2	custom	cttctt_repeat	19024052	19024057	.	+	.	ID=cttctt_repeat_1899_1904
+2	custom	cttctt_repeat	19023328	19023333	.	-	.	ID=cttctt_repeat_1175_1180
+2	custom	cttctt_repeat	19027262	19027267	.	-	.	ID=cttctt_repeat_5109_5114
+2	custom	cttctt_repeat	19027073	19027078	.	-	.	ID=cttctt_repeat_4920_4925
+2	custom	cttctt_repeat	19022411	19022416	.	+	.	ID=cttctt_repeat_258_263
+2	custom	cttctt_repeat	19022373	19022378	.	-	.	ID=cttctt_repeat_220_225
+5	custom	cttctt_repeat	22038372	22038377	.	-	.	ID=cttctt_repeat_208_213
+5	custom	cttctt_repeat	22039263	22039268	.	+	.	ID=cttctt_repeat_1099_1104
+5	custom	cttctt_repeat	22039475	22039480	.	-	.	ID=cttctt_repeat_1311_1316
+1	custom	cttctt_repeat	7493426	7493431	.	+	.	ID=cttctt_repeat_214_219
+1	custom	cttctt_repeat	7493314	7493319	.	-	.	ID=cttctt_repeat_102_107
+1	custom	cttctt_repeat	7494784	7494789	.	-	.	ID=cttctt_repeat_1572_1577
+1	custom	cttctt_repeat	7495216	7495221	.	-	.	ID=cttctt_repeat_2004_2009

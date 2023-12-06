@@ -1,0 +1,14 @@
+##gff-version 3
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	1898	1903	.	+	.	ID=cttctt_repeat_1898_1903
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	1175	1180	.	-	.	ID=cttctt_repeat_1175_1180
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	5109	5114	.	-	.	ID=cttctt_repeat_5109_5114
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	4920	4925	.	-	.	ID=cttctt_repeat_4920_4925
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	257	262	.	+	.	ID=cttctt_repeat_257_262
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	220	225	.	-	.	ID=cttctt_repeat_220_225
+chromosome:TAIR10:5:22038165:22039568:1	custom	cttctt_repeat	208	213	.	-	.	ID=cttctt_repeat_208_213
+chromosome:TAIR10:5:22038165:22039568:1	custom	cttctt_repeat	1098	1103	.	+	.	ID=cttctt_repeat_1098_1103
+chromosome:TAIR10:5:22038165:22039568:1	custom	cttctt_repeat	1311	1316	.	-	.	ID=cttctt_repeat_1311_1316
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	102	107	.	-	.	ID=cttctt_repeat_102_107
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	1572	1577	.	-	.	ID=cttctt_repeat_1572_1577
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	2004	2009	.	-	.	ID=cttctt_repeat_2004_2009

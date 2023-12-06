@@ -1,0 +1,466 @@
+ID   4    standard; DNA; HTG; 1151 BP.
+XX
+AC   chromosome:TAIR10:4:6100714:6101864:1
+XX
+SV   chromosome:TAIR10:4:6100714:6101864:1
+XX
+DT   6-DEC-2023
+XX
+DE   Arabidopsis thaliana chromosome 4 TAIR10 partial sequence 6100714..6101864
+DE   annotated by Araport11
+XX
+KW   .
+XX
+OS   Arabidopsis thaliana (thale-cress)
+OC   Eukaryota; Viridiplantae; Streptophyta; Streptophytina; Embryophyta;
+OC   Tracheophyta; Euphyllophyta; Spermatophyta; Magnoliopsida; Mesangiospermae;
+OC   eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales;
+OC   Brassicaceae; Camelineae.
+XX
+CC   This sequence displays annotation from Ensembl Genomes, based on underlying
+CC   annotation from Araport11 ( https://araport.org ). See
+CC   http://www.ensemblgenomes.org for more information.
+XX
+CC   All feature locations are relative to the first (5') base of the sequence
+CC   in this file.  The sequence presented is always the forward strand of the
+CC   assembly. Features that lie outside of the sequence contained in this file
+CC   have clonal location coordinates in the format: .:..
+XX
+CC   The /gene indicates a unique id for a gene, /note="transcript_id=..." a
+CC   unique id for a transcript, /protein_id a unique id for a peptide and
+CC   note="exon_id=..." a unique id for an exon. These ids are maintained
+CC   wherever possible between versions.
+XX
+FH   Key             Location/Qualifiers
+FT   source          1..1151
+FT                   /organism="Arabidopsis thaliana"
+FT                   /db_xref="taxon:3702"
+FT   gene            1..1151
+FT                   /gene=AT4G09650
+FT                   /locus_tag="ATPD"
+FT                   /note="F-type H+-transporting ATPase subunit delta
+FT                   [Source:NCBI gene (formerly Entrezgene);Acc:826551]"
+FT   mRNA            1..1151
+FT                   /gene="AT4G09650"
+FT                   /standard_name="AT4G09650.1"
+FT   CDS             86..790
+FT                   /gene="AT4G09650"
+FT                   /protein_id="AT4G09650.1"
+FT                   /note="transcript_id=AT4G09650.1"
+FT                   /db_xref="EntrezGene_trans_name:ATPD-201"
+FT                   /db_xref="Uniprot/SWISSPROT:Q9SSS9"
+FT                   /db_xref="RefSeq_mRNA:NM_117033"
+FT                   /db_xref="Uniprot/SPTREMBL:A0A178V1L3"
+FT                   /db_xref="TAIR_LOCUS_MODEL:AT4G09650.1"
+FT                   /db_xref="EMBL:AL161515"
+FT                   /db_xref="EMBL:AL161831"
+FT                   /db_xref="EMBL:AY065158"
+FT                   /db_xref="EMBL:AY074525"
+FT                   /db_xref="EMBL:AY087900"
+FT                   /db_xref="EMBL:AY114577"
+FT                   /db_xref="EMBL:AY123002"
+FT                   /db_xref="EMBL:CACRSJ010000109"
+FT                   /db_xref="EMBL:CACSHJ010000095"
+FT                   /db_xref="EMBL:CP002687"
+FT                   /db_xref="EMBL:LR881469"
+FT                   /db_xref="EMBL:LUHQ01000004"
+FT                   /db_xref="GO:0003729"
+FT                   /db_xref="GO:0005515"
+FT                   /db_xref="GO:0005829"
+FT                   /db_xref="GO:0006754"
+FT                   /db_xref="GO:0006811"
+FT                   /db_xref="GO:0009409"
+FT                   /db_xref="GO:0009507"
+FT                   /db_xref="GO:0009507"
+FT                   /db_xref="GO:0009534"
+FT                   /db_xref="GO:0009535"
+FT                   /db_xref="GO:0009535"
+FT                   /db_xref="GO:0009536"
+FT                   /db_xref="GO:0009579"
+FT                   /db_xref="GO:0009579"
+FT                   /db_xref="GO:0009772"
+FT                   /db_xref="GO:0009772"
+FT                   /db_xref="GO:0009773"
+FT                   /db_xref="GO:0009773"
+FT                   /db_xref="GO:0009941"
+FT                   /db_xref="GO:0010287"
+FT                   /db_xref="GO:0010319"
+FT                   /db_xref="GO:0015979"
+FT                   /db_xref="GO:0015979"
+FT                   /db_xref="GO:0015986"
+FT                   /db_xref="GO:0015986"
+FT                   /db_xref="GO:0015986"
+FT                   /db_xref="GO:0016020"
+FT                   /db_xref="GO:0016020"
+FT                   /db_xref="GO:0016020"
+FT                   /db_xref="GO:0045261"
+FT                   /db_xref="GO:0045261"
+FT                   /db_xref="GO:0046933"
+FT                   /db_xref="GO:0046933"
+FT                   /db_xref="GO:0046933"
+FT                   /db_xref="GO:0110165"
+FT                   /db_xref="GO:1902600"
+FT                   /db_xref="protein_id:AAL38334"
+FT                   /db_xref="protein_id:AAL69493"
+FT                   /db_xref="protein_id:AAM47896"
+FT                   /db_xref="protein_id:AAM65451"
+FT                   /db_xref="protein_id:AAM67535"
+FT                   /db_xref="protein_id:AEE82777"
+FT                   /db_xref="protein_id:CAA0394334"
+FT                   /db_xref="protein_id:CAB78088"
+FT                   /db_xref="protein_id:CAB82132"
+FT                   /db_xref="protein_id:CAD5327396"
+FT                   /db_xref="protein_id:OAP00257"
+FT                   /db_xref="protein_id:VYS62122"
+FT                   /db_xref="TAIR_TRANSLATION:AT4G09650"
+FT                   /db_xref="PO:PO:0000013"
+FT                   /db_xref="PO:PO:0000037"
+FT                   /db_xref="PO:PO:0000230"
+FT                   /db_xref="PO:PO:0000293"
+FT                   /db_xref="PO:PO:0001054"
+FT                   /db_xref="PO:PO:0001078"
+FT                   /db_xref="PO:PO:0001081"
+FT                   /db_xref="PO:PO:0001185"
+FT                   /db_xref="PO:PO:0004507"
+FT                   /db_xref="PO:PO:0006339"
+FT                   /db_xref="PO:PO:0007064"
+FT                   /db_xref="PO:PO:0007095"
+FT                   /db_xref="PO:PO:0007098"
+FT                   /db_xref="PO:PO:0007103"
+FT                   /db_xref="PO:PO:0007115"
+FT                   /db_xref="PO:PO:0007123"
+FT                   /db_xref="PO:PO:0007131"
+FT                   /db_xref="PO:PO:0007611"
+FT                   /db_xref="PO:PO:0007616"
+FT                   /db_xref="PO:PO:0008019"
+FT                   /db_xref="PO:PO:0009001"
+FT                   /db_xref="PO:PO:0009005"
+FT                   /db_xref="PO:PO:0009006"
+FT                   /db_xref="PO:PO:0009009"
+FT                   /db_xref="PO:PO:0009010"
+FT                   /db_xref="PO:PO:0009025"
+FT                   /db_xref="PO:PO:0009029"
+FT                   /db_xref="PO:PO:0009030"
+FT                   /db_xref="PO:PO:0009031"
+FT                   /db_xref="PO:PO:0009032"
+FT                   /db_xref="PO:PO:0009046"
+FT                   /db_xref="PO:PO:0009047"
+FT                   /db_xref="PO:PO:0009052"
+FT                   /db_xref="PO:PO:0020030"
+FT                   /db_xref="PO:PO:0020038"
+FT                   /db_xref="PO:PO:0020100"
+FT                   /db_xref="PO:PO:0020137"
+FT                   /db_xref="PO:PO:0025022"
+FT                   /db_xref="PO:PO:0025281"
+FT                   /db_xref="UniParc:UPI00000A8930"
+FT                   /translation="MASLQQTLFSLQSKLPPSSFQIARSLPLRKTFPIRINNGGNAAGA
+FT                   RMSATAASSYAMALADVAKRNDTMELTVTDIEKLEQVFSDPQVLNFFANPTITVEKKRQ
+FT                   VIDDIVKSSSLQSHTSNFLNVLVDANRINIVTEIVKEFELVYNKLTDTQLAEVRSVVKL
+FT                   EAPQLAQIAKQVQKLTGAKNVRVKTVIDASLVAGFTIRYGESGSKLIDMSVKKQLEDIA
+FT                   SQLELGEIQLAT"
+FT   exon            1..1151
+FT                   /note="exon_id=AT4G09650.1.exon1"
+FT   mRNA            86..790
+FT                   /product="MASLQQTLFSLQSKLPPSSFQIARSLPLRKTFPIRINNGGNAAGARMSA
+FT                   TAASSYAMALADVAKRNDTMELTVTDIEKLEQVFSDPQVLNFFANPTITVEKKRQVIDD
+FT                   IVKSSSLQSHTSNFLNVLVDANRINIVTEIVKEFELVYNKLTDTQLAEVRSVVKLEAPQ
+FT                   LAQIAKQVQKLTGAKNVRVKTVIDASLVAGFTIRYGESGSKLIDMSVKKQLEDIASQLE
+FT                   LGEIQLAT"
+FT                   /note="identifier=.1"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method:fgenesh"
+FT   variation       5..4
+FT                   /replace="-/CTT"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100717_C_CCTT"
+FT   variation       23..22
+FT                   /replace="-/CTC"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100735_T_TCTC"
+FT   variation       28..28
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14111257"
+FT   variation       35..35
+FT                   /replace="C/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100748_C_A"
+FT   variation       61..61
+FT                   /replace="C/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764124"
+FT   variation       64..64
+FT                   /replace="T/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388412"
+FT   variation       66..66
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764125"
+FT   variation       75..77
+FT                   /replace="CAA/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH10070639"
+FT   variation       76..76
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14940957"
+FT   variation       167..167
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100880_C_T"
+FT   variation       193..193
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592116"
+FT   variation       193..195
+FT                   /replace="CAA/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315218"
+FT   variation       220..220
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14111258"
+FT   variation       235..235
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100948_C_T"
+FT   variation       259..259
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483185"
+FT   variation       283..283
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6100996_C_T"
+FT   variation       304..304
+FT                   /replace="C/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483186"
+FT   variation       310..310
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483187"
+FT   variation       313..313
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101026_C_T"
+FT   variation       322..322
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH08319007"
+FT   variation       352..352
+FT                   /replace="A/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101065_A_C"
+FT   variation       355..355
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101068_C_T"
+FT   variation       382..382
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483188"
+FT   variation       415..415
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388413"
+FT   variation       418..418
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592117"
+FT   variation       420..420
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14111259"
+FT   variation       439..439
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101152_C_T"
+FT   variation       469..469
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764126"
+FT   variation       481..481
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101194_C_T"
+FT   variation       488..488
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388414"
+FT   variation       499..499
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592118"
+FT   variation       511..511
+FT                   /replace="T/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483189"
+FT   variation       517..517
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388495"
+FT   variation       565..565
+FT                   /replace="G/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101278_G_T"
+FT   variation       571..571
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101284_A_G"
+FT   variation       574..574
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101287_G_A"
+FT   variation       742..742
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101455_A_T"
+FT   variation       782..782
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592119"
+FT   variation       793..793
+FT                   /replace="T/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101506_T_A"
+FT   variation       797..799
+FT                   /replace="GGA/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315219"
+FT   variation       816..816
+FT                   /replace="A/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101529_A_C"
+FT   variation       830..829
+FT                   /replace="-/T/TT"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315220"
+FT   variation       831..830
+FT                   /replace="-/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101543_T_TC"
+FT   variation       832..831
+FT                   /replace="-/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315221"
+FT   variation       833..833
+FT                   /replace="T/TC/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101546_T_TC,A"
+FT   variation       835..834
+FT                   /replace="-/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101547_T_TC"
+FT   variation       836..835
+FT                   /replace="-/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101548_T_TA"
+FT   variation       841..841
+FT                   /replace="T/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101554_T_C"
+FT   variation       846..846
+FT                   /replace="G/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764127"
+FT   variation       852..852
+FT                   /replace="T/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315222"
+FT   variation       866..866
+FT                   /replace="A/T/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388496"
+FT   variation       902..902
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592122"
+FT   variation       908..908
+FT                   /replace="A/G/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592123"
+FT   variation       919..919
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101632_A_G"
+FT   variation       927..927
+FT                   /replace="G/C"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101640_G_C"
+FT   variation       930..929
+FT                   /replace="-/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101642_G_GT"
+FT   variation       932..932
+FT                   /replace="T/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388497"
+FT   variation       933..933
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14111261"
+FT   variation       942..942
+FT                   /replace="G/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388498"
+FT   variation       943..943
+FT                   /replace="T/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388499"
+FT   variation       950..950
+FT                   /replace="T/G"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101663_T_G"
+FT   variation       953..953
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764128"
+FT   variation       955..955
+FT                   /replace="T/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764129"
+FT   variation       960..971
+FT                   /replace="GAATTCGAAAAC/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH10070640"
+FT   variation       965..970
+FT                   /replace="CGAAAA/-"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101677_TCGAAAA_T"
+FT   variation       969..969
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH08319008"
+FT   variation       976..978
+FT                   /replace="TCG/-"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101688_TTCG_T"
+FT   variation       980..980
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101693_A_G"
+FT   variation       983..982
+FT                   /replace="-/GT"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315223"
+FT   variation       984..983
+FT                   /replace="-/TA"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315224"
+FT   variation       987..987
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH11388526"
+FT   variation       1000..1000
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101713_G_A"
+FT   variation       1003..1003
+FT                   /replace="T/-"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH04315225"
+FT   variation       1007..1007
+FT                   /replace="G/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592124"
+FT   variation       1022..1022
+FT                   /replace="T/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483190"
+FT   variation       1026..1026
+FT                   /replace="A/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592125"
+FT   variation       1040..1040
+FT                   /replace="C/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101753_C_A"
+FT   variation       1048..1048
+FT                   /replace="A/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH00483191"
+FT   variation       1066..1066
+FT                   /replace="T/C"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH02764132"
+FT   variation       1067..1067
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592126"
+FT   variation       1070..1070
+FT                   /replace="C/T"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101783_C_T"
+FT   variation       1077..1077
+FT                   /replace="C/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101790_C_A"
+FT   variation       1083..1083
+FT                   /replace="T/G"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592127"
+FT   variation       1086..1085
+FT                   /replace="-/AGGATT"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH10070641"
+FT   variation       1095..1095
+FT                   /replace="A/T"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH06592128"
+FT   variation       1116..1116
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:ENSVATH14111262"
+FT   variation       1129..1129
+FT                   /replace="G/A"
+FT                   /db_xref="The 1001 Genomes Project:tmp_4_6101842_G_A"
+FT   repeat_region   AL161831.1:71171..71302
+FT                   /note="dust repeat: matches 6100712..6100843(1) of
+FT                   consensus"
+FT   repeat_region   complement(830..859)
+FT                   /note="dust repeat: matches 6101543..6101572(1) of
+FT                   consensus"
+FT   misc_feature    1..1151
+FT                   /note="contig AL161831.1 71173..72323(1)"
+XX
+SQ   Sequence       1151 BP;        346 A;        234 C;        227 G;        344 T;          0 other;
+     TTACCTTCTT CTTCTTCTTC CTCTCCTCTA TCGTCTTCGA GAAACCACAA ATCTCTCTTT        60
+     CTCTCAAACT CTCTCAACAA CAACAATGGC GTCTCTTCAA CAAACTCTAT TCTCTCTTCA       120
+     ATCCAAACTC CCACCATCCT CCTTCCAAAT CGCCAGATCT CTCCCACTCC GAAAAACCTT       180
+     CCCAATCCGA ATCAACAACG GTGGAAACGC CGCCGGAGCA AGAATGTCAG CCACCGCAGC       240
+     ATCAAGCTAC GCGATGGCAT TAGCAGACGT CGCGAAAAGA AACGACACAA TGGAATTAAC       300
+     AGTCACAGAC ATCGAGAAGC TCGAACAAGT CTTCTCAGAT CCACAAGTAC TAAACTTCTT       360
+     CGCGAATCCA ACAATCACCG TCGAGAAGAA ACGTCAAGTC ATCGACGACA TAGTGAAATC       420
+     GTCGTCTCTT CAATCTCACA CATCTAACTT CCTCAACGTC CTCGTCGACG CGAATCGGAT       480
+     CAATATCGTG ACGGAGATCG TTAAGGAGTT TGAGTTGGTT TACAATAAGC TAACGGATAC       540
+     ACAATTGGCG GAGGTTAGGT CGGTGGTGAA ATTGGAAGCG CCGCAATTAG CTCAGATTGC       600
+     GAAACAGGTT CAGAAGTTAA CCGGAGCTAA GAATGTTCGG GTTAAGACGG TTATTGATGC       660
+     GAGTCTTGTG GCTGGTTTTA CGATTCGGTA TGGTGAATCC GGTTCGAAGC TTATTGATAT       720
+     GAGTGTGAAG AAACAGCTTG AAGATATTGC TTCTCAGCTT GAACTTGGTG AGATTCAATT       780
+     AGCTACTTGA GATTTGGGAA AAATTGTATA AGAGAAAAAT TTGAGAATCT TTTTTTTTTG       840
+     TGCAAGTTTA ATTTTTTTTC TCCTCATCTT CTTTCTCTAT TAATCAATCA TATAATATAC       900
+     AGTACTGATG ATATAATAAT GATTCTGAGT TTATTATCTT TGTAATTGTT AAATTTAGTG       960
+     AATTCGAAAA CGAATTCGAA TAGTATGTTT GCGGATTATG CGTTTTGGGG AATGGTTTTA      1020
+     CTGTTAAATT GCGGTTAATC TCGGTTGAAT AGAGTAGTGG CAATGTCAAC TTATTGCATT      1080
+     GATGAAGGAA CATGAATGAA GAAGAACTTT GAACTGTTAC ATTGTGAAGA AAGTGTAAAT      1140
+     CTATGTATGA A                                                           1151
+//
+
+
+

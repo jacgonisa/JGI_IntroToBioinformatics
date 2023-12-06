@@ -1,0 +1,14 @@
+chromosome:TAIR10:5:22038165:22039568:1	custom	ctt_repeat	208	213	+	.	ID=ctt_repeat_AT5G54270_208_213
+chromosome:TAIR10:5:22038165:22039568:1	custom	ctt_repeat	1099	1104	+	.	ID=ctt_repeat_AT5G54270_1099_1104
+chromosome:TAIR10:5:22038165:22039568:1	custom	ctt_repeat	1311	1316	+	.	ID=ctt_repeat_AT5G54270_1311_1316
+chromosome:TAIR10:1:7493213:7496741:1	custom	ctt_repeat	214	222	+	.	ID=ctt_repeat_AT1G21400_214_222
+chromosome:TAIR10:1:7493213:7496741:1	custom	ctt_repeat	102	107	+	.	ID=ctt_repeat_AT1G21400_102_107
+chromosome:TAIR10:1:7493213:7496741:1	custom	ctt_repeat	1572	1577	+	.	ID=ctt_repeat_AT1G21400_1572_1577
+chromosome:TAIR10:1:7493213:7496741:1	custom	ctt_repeat	2004	2009	+	.	ID=ctt_repeat_AT1G21400_2004_2009
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	386	391	-	.	ID=ctt_repeat_AT2G46340_386_391
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	348	353	-	.	ID=ctt_repeat_AT2G46340_348_353
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	5044	5064	-	.	ID=ctt_repeat_AT2G46340_5044_5064
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	1855	1860	-	.	ID=ctt_repeat_AT2G46340_1855_1860
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	2301	2306	-	.	ID=ctt_repeat_AT2G46340_2301_2306
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	2392	2397	-	.	ID=ctt_repeat_AT2G46340_2392_2397
+chromosome:TAIR10:2:19022154:19027528:1	custom	ctt_repeat	973	978	-	.	ID=ctt_repeat_AT2G46340_973_978

@@ -1,0 +1,24 @@
+##gff-version 3
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	1898	1903	.	+	.	ID=cttctt_repeat_1898_1903
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	257	262	.	+	.	ID=cttctt_repeat_257_262
+chromosome:TAIR10:2:19022154:19027528:1	custom	cttctt_repeat	257	262	.	+	.	ID=cttctt_repeat_257_262
+chromosome:TAIR10:5:22038165:22039568:1	custom	cttctt_repeat	1098	1103	.	+	.	ID=cttctt_repeat_1098_1103
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:1:7493213:7496741:1	custom	cttctt_repeat	213	218	.	+	.	ID=cttctt_repeat_213_218
+chromosome:TAIR10:2:19022154:19027528:1	custom	aagaag_repeat	1174	1179	.	+	.	ID=aagaag_repeat_1174_1179
+chromosome:TAIR10:2:19022154:19027528:1	custom	aagaag_repeat	5108	5113	.	+	.	ID=aagaag_repeat_5108_5113
+chromosome:TAIR10:2:19022154:19027528:1	custom	aagaag_repeat	4919	4924	.	+	.	ID=aagaag_repeat_4919_4924
+chromosome:TAIR10:2:19022154:19027528:1	custom	aagaag_repeat	219	224	.	+	.	ID=aagaag_repeat_219_224
+chromosome:TAIR10:2:19022154:19027528:1	custom	aagaag_repeat	219	224	.	+	.	ID=aagaag_repeat_219_224
+chromosome:TAIR10:5:22038165:22039568:1	custom	aagaag_repeat	207	212	.	+	.	ID=aagaag_repeat_207_212
+chromosome:TAIR10:5:22038165:22039568:1	custom	aagaag_repeat	1310	1315	.	+	.	ID=aagaag_repeat_1310_1315
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	101	106	.	+	.	ID=aagaag_repeat_101_106
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	1571	1576	.	+	.	ID=aagaag_repeat_1571_1576
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	101	106	.	+	.	ID=aagaag_repeat_101_106
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	101	106	.	+	.	ID=aagaag_repeat_101_106
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	101	106	.	+	.	ID=aagaag_repeat_101_106
+chromosome:TAIR10:1:7493213:7496741:1	custom	aagaag_repeat	2003	2008	.	+	.	ID=aagaag_repeat_2003_2008
