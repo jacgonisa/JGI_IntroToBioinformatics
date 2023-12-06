@@ -18,7 +18,7 @@ This work consists of one main script (`main.rb`) and three classes:
 * `sequence.rb`.
 
 * As well, find attached an image of AT2G46340 gene in ENSEMBL genome browser `AT2G46340.jpeg`.
-* Also we attach an additional image showing in detail a highly repetitive region consisting of CTT arrays.
+* Also we attach an additional image showing in detail a highly repetitive region consisting of CTT arrays  `AT2G46340_curiosity.jpeg`.
 
 The full genome can be visualised here:
 https://plants.ensembl.org/Arabidopsis_thaliana/Share/cba88828d797bba6294e88005c0928af?redirect=no
