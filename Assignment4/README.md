@@ -16,8 +16,7 @@ ruby main.rb
 - Regarding the choice of e-value as a filter, we implemented a threshold of e-value < 10^(-6) since it is widely used.
 This website (https://help.ezbiocloud.net/ortholog-and-its-detection/) suggest threshold based on Ward & Moreno-Hagelsieb, 2014 
 (https://pubmed.ncbi.nlm.nih.gov/25013894/).
-However, we recognize that other threshold (for instance 10-3, 10-5, 10-10) could have been implemeted as well.
+However, we recognize that other threshold (for instance 10-3, 10-5, 10-10) could have been implemented as well.
 
 - Regarding the next steps to confidently show that two genes are orthologs, we would opt for a **phylogeny-based** method. These are more accurate methods and consist in analysing phylogenetic trees that have been constructed from MSA (Multiple Sequence Alignment) created with putative homolog and ortholog sequences. In a phylogenetic tree, speciation events can be detected and if two genes of different species are in the same clade, they can be annotated as orthologs more confidently.
-
 However, this approach can also lead to wrong predictions when Horizontal Gene Transfers (HGTs) have taken place, for instance.
